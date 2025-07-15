@@ -21,7 +21,7 @@ A simple real-time public chat application built with **Node.js**, **Express.js*
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/kakonoomoidee/public-chat-app.git
+git clone https://github.com/Kakonoomoide/public-chat-app.git
 cd public-chat-app
 ```
 
@@ -69,14 +69,10 @@ To access from your phone:
 - ws
 - tailwindcss (via CDN)
 
-# 📸 Screenshot
-
-🧩 Future Improvements (Optional)
-
+# 🧩 Future Improvements
 1. Chat history
 2. Emoji support
 3. Persistent user sessions (with localStorage or database)
 
 # 📄 License
-
 MIT License — feel free to use and modify.
